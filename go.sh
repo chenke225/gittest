@@ -9,7 +9,7 @@
 # 2: Application error
 # 3: Network error
 
-CUR_VER=""
+CUR_VER="aaa  "
 NEW_VER=""
 ARCH=""
 VDIS="64"
