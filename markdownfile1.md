@@ -1,7 +1,7 @@
 - zheshi markdown wendang ma 
 
 ```python
-a1=50
+a1=40
 for i in haha:
     
 ```
