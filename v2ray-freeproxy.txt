@@ -1,0 +1,8 @@
+address    us.accessoutside.tech
+port   443
+uuid  d8d5d54a-c50a-4090-a21a-88d252e43a78
+alterId  64
+auto
+ws
+path /
+tls

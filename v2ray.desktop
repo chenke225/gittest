@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=v2ray
+Exec=/home/chenke/v2ray/v2ray config=/home/chenke/v2ray/config.json
+Icon=/home/chenke/v2ray/v2ray.png
+Type=Application
+StartupNotify=true
+Terminal=true 
